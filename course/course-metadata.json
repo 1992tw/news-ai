@@ -1,0 +1,38 @@
+{
+  "id": "687062963731eb1c01c9a81d",
+  "title": "News AI",
+  "description": "This course is designed to provide understanding of AI use in news industry like generating news automatically, detecting fake news, summarizing articles & analyzing sentiments. It imparts knowledge for learners to develop AI-powered news applications.",
+  "learningObjectives": [
+    "Understand the scope of AI in news industry",
+    "Know the technology behind AI powered news generation",
+    "Learn about fake news detection using AI",
+    "Comprehend the wisdom behind AI-powered article summarization",
+    "Understand sentiment analysis in the realm of news"
+  ],
+  "finalProjectDetails": {
+    "overview": "The final project will require learners to develop an AI-powered system that can generate news articles based on provided data, detect fake news, summarize large articles and analyze sentiment of the news content.",
+    "planningResources": [
+      "Resources on AI in journalism",
+      "Materials on AI technology for news generation",
+      "Materials on AI technology for fake news detection",
+      "Materials on AI technology for article summarization",
+      "Materials on AI technology for sentiment analysis"
+    ],
+    "submissionInstructions": "Once complete, submit your source code, a link to the hosted application, and a detailed report explaining your methodology and system architecture.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6800a73454438765dcfd5e07",
+    "name": "Tammam Alwafai",
+    "image": "https://avatars.githubusercontent.com/u/47179662?v=4",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": null,
+  "createdAt": "2025-07-11T01:02:14.407Z",
+  "updatedAt": "2025-07-11T01:02:14.407Z"
+}
